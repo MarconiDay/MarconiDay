@@ -25,7 +25,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     Dopo esser diventati staff, per creare una nuova **attività** si ha un popup nel quale si possono inserire i dati per la propria attività. 
     `N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente in quella creata. Ogni             attività dovrà avere solo un'unico responsabile (capo staff) `
 
-<img src="http://34.107.20.99/assets/img/inserisci.png" width=120px>
+<img src="http://34.107.20.99/assets/img/inserisci.png" width=300px align:center>
 
 
 
