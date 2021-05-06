@@ -1,6 +1,7 @@
 <img src="http://34.107.20.99/assets/img/logo.png" width=50px>
-# Marconi-Day
 
+
+# Marconi-Day
 La WebApp Marconi Day offre agli studenti la possibilità di organizzare o partecipare alle attività per il giorno Marconi Day
 
 # Login
