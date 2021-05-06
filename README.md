@@ -23,7 +23,11 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
 # Lato Staff
     Ogni utente può diventare **staff**: per diventarlo devono rivolgersi a un amministratore (che sarà uno dei rappresentanti d'istituto).
     Dopo esser diventati staff, per creare una nuova **attività** si ha un popup nel quale si possono inserire i dati per la propria attività. 
-    `N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente in quella creata. Ogni attività      dovrà avere solo un'unico responsabile (capo staff) `
+    `N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente in quella creata. Ogni             attività dovrà avere solo un'unico responsabile (capo staff) `
+
+<img src="http://34.107.20.99/assets/img/inserisci.png" width=120px>
+
+
 
 # Lato amministratore
   Gli amministratori ovvero i rappresentanti di Istituto avranno delle credenziali "speciali" per poter accedere. Queste credenziali permetteranno di assegnare o 
