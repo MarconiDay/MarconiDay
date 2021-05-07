@@ -31,7 +31,6 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    - Aula
 
    ## Scelte attività
-   <img src="http://34.107.20.99/assets/Readme/scegli.jpg" width="600">
    
    ## Check list
    <img src="http://34.107.20.99/assets/Readme/checkList.png">
