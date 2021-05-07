@@ -12,8 +12,8 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     gli verrà richiesto di creare una nuova password.
    
 
-  <img width="600" src="http://34.107.20.99/assets/img/e-mail.png" />
-  <img src="http://34.107.20.99/assets/img/login.png" />
+  <img width="600" src="http://34.107.20.99/assets/Readme/e-mail.png" />
+  <img src="http://34.107.20.99/assets/Readme/login.png" />
 
   
   
@@ -37,8 +37,8 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
   <th>DOPO</th>
  </tr>
   <tr>
- <td><img src="http://34.107.20.99/assets/img/inserisciVuoto.png" / ></td>
- <td><img src="http://34.107.20.99/assets/img/inserisci.png"/> </td>
+ <td><img src="http://34.107.20.99/assets/Readme/inserisciVuoto.png" / ></td>
+ <td><img src="http://34.107.20.99/assets/Readme/inserisci.png"/> </td>
  </tr>
  </table>
 
