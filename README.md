@@ -28,7 +28,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
 
 <p float="left">
   <img src="http://34.107.20.99/assets/img/inserisci.png" width="302"/> 
-  <img src="http://34.107.20.99/assets/img/inserisciVuoto.png" width="30" />
+  <img src="http://34.107.20.99/assets/img/inserisciVuoto.png" width="300" />
 </p>
 
 
