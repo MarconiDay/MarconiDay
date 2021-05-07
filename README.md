@@ -63,12 +63,12 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     
    
    ### Popup matricola
-   <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png"/>
+   <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png" width=400px/>
    
    ### Popup attività
-   <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png"/>
+   <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png" width=400px/>
    
    ### Popup classi
-   <img src="http://34.107.20.99/assets/Readme/auleAdmin.png"/>
+   <img src="http://34.107.20.99/assets/Readme/auleAdmin.png" width=400px/>
   
      
