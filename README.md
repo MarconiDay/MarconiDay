@@ -31,7 +31,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    - Aula
 
    ## Alcune cards delle attività
-   <img src="http://34.107.20.99/assets/Readme/activity.png" / >
+   <img src="http://34.107.20.99/assets/Readme/activity.png">
 
 # Lato Staff
   Ogni utente può diventare **staff**: per diventarlo devono rivolgersi a un amministratore (che sarà uno dei rappresentanti d'istituto).
