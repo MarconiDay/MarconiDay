@@ -58,15 +58,15 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    Gli amministratori ovvero i rappresentanti di Istituto avranno delle credenziali "speciali" per poter accedere. Queste credenziali permetteranno di assegnare o 
    togliere permessi agli studenti (come nel caso dello staff). Se vogliono partecipare o creare attività dovranno semplicemente accedere con la loro matricola e password.
     
-   ## menù admin
+   ## Menù admin
    <img src="http://34.107.20.99/assets/Readme/menuAdmin.png"/>
     
    
    ### Popup matricola
-   <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png">
+   <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png"/>
    ### Popup attività
-   <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png">
+   <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png"/>
    ### Popup classi
-   <img src="http://34.107.20.99/assets/Readme/auleAdmin.png">
+   <img src="http://34.107.20.99/assets/Readme/auleAdmin.png"/>
   
      
