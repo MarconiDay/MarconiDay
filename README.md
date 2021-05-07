@@ -34,7 +34,7 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
    <b>Scelte attività</b>
    </p>
    <p align="center">
-    <img src="http://34.107.20.99/assets/Readme/scegli.jpg" width=510px/>
+    <img src="http://34.107.20.99/assets/Readme/scegli.jpg" width=800px/>
    </p>
   
  
@@ -42,7 +42,7 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
    <b>Check list</b>
    </p>
    <p align="center">
-    <img src="http://34.107.20.99/assets/Readme/checkList.png" width=510px/>
+    <img src="http://34.107.20.99/assets/Readme/checkList.png" width=800px/>
    </p>
  
    
