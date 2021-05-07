@@ -20,8 +20,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
  <td><img width="600" src="http://34.107.20.99/assets/Readme/e-mail.png" /></td>
  <td><img src="http://34.107.20.99/assets/Readme/login.png" /></td>
  </tr>
-
-  
+</table>
   
  # Prenotazione attività
    Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attività dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
