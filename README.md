@@ -54,23 +54,29 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
   
   >N.B: I membri dello staff, siccome creano un attvit&agrave, non potranno partecipare o scegliere altre attivit&agrave e dovranno presiedere rigorosamente
   in quella creata. Ogni attivit&agrave dovr&agrave avere solo un'unico responsabile (capo staff)
+<center>
 <table>
  <tr>
-  <th>PRIMA</th>
-  <th>DOPO</th>
+  <th><b>PRIMA</b></th>
+  <th><b>DOPO</b></th>
  </tr>
   <tr>
  <td><img src="http://34.107.20.99/assets/Readme/inserisciVuoto.png" /></td>
  <td><img src="http://34.107.20.99/assets/Readme/inserisci.png"/> </td>
  </tr>
  </table>
-
+</center>
 # Lato amministratore
    Gli amministratori ovvero i rappresentanti di Istituto avranno delle credenziali "speciali" per poter accedere. Queste credenziali permetteranno di assegnare o 
    togliere permessi agli studenti (come nel caso dello staff). Se vogliono partecipare o creare attivit&agrave dovranno semplicemente accedere con la loro matricola e password.
     
-   ## Men&ugrave admin
+   ## Menù admin
+   <p align="center">
+   </p>
+   <p align="center">
    <img src="http://34.107.20.99/assets/Readme/menuAdmin.png"/>
+   </p>
+   
     
    <p align="center">
    <b>Popup matricole</b>
