@@ -27,7 +27,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
   in quella creata. Ogni attività dovrà avere solo un'unico responsabile (capo staff)
 
 <p align="center">
-  <img width="460" height="300" src="http://34.107.20.99/assets/img/inserisci.png">
+  <img width="300"  src="http://34.107.20.99/assets/img/inserisci.png">
 </p>
 
 
