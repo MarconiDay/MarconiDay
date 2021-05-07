@@ -11,9 +11,15 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
     gli verrà richiesto di creare una nuova password.
    
-
-  <img width="600" src="http://34.107.20.99/assets/Readme/e-mail.png" />
-  <img src="http://34.107.20.99/assets/Readme/login.png" />
+<table>
+ <tr>
+  <th>PRIMA</th>
+  <th>DOPO</th>
+ </tr>
+  <tr>
+ <td><img width="600" src="http://34.107.20.99/assets/Readme/e-mail.png" /></td>
+ <td><img src="http://34.107.20.99/assets/Readme/login.png" /></td>
+ </tr>
 
   
   
