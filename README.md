@@ -5,7 +5,7 @@
 La WebApp Marconi Day offre agli studenti la possibilità di organizzare o partecipare alle attività per il giorno Marconi Day
 
 # Login
-    Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
+   Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
     -Matricola
     -Password (provvisoria)
     Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
