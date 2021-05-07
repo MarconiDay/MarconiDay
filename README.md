@@ -30,9 +30,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    - Attività del turno  
    - Aula
 
-   ## Pagina activity
-   <img src="http://34.107.20.99/assets/Readme/activity.png">
-   
+  
    
    ## Check list
    <img src="http://34.107.20.99/assets/Readme/checkList.png">
@@ -63,4 +61,14 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    ## menù admin
    <img src="http://34.107.20.99/assets/Readme/menuAdmin.png"/>
     
-    
+   ## Pagina activity
+   <img src="http://34.107.20.99/assets/Readme/activity.png">
+   
+   ### Popup matricola
+   <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png">
+   ### Popup attività
+   <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png">
+   ### Popup classi
+   <img src="http://34.107.20.99/assets/Readme/auleAdmin.png">
+  
+     
