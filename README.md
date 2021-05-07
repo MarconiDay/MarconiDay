@@ -2,14 +2,14 @@
 
 
 # Marconi-Day
-La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o partecipare alle attivit&egrave per il giorno Marconi Day
+La WebApp Marconi Day offre agli studenti la possibilità di organizzare o partecipare alle attivit&egrave per il giorno Marconi Day
 
 # Login
- Circa 2/3 settimane prima del Marconi Day verr&agrave mandata un e-mail a tutti gli studenti, verranno fornite: 
+ Circa 2/3 settimane prima del Marconi Day verràe mandata un e-mail a tutti gli studenti, verranno fornite: 
    - Matricola
    - Password (provvisoria)
     Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
-    gli verr&agrave richiesto di creare una nuova password.
+    gli verrà richiesto di creare una nuova password.
 <center>   
 <table>
  <tr>
@@ -23,10 +23,10 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
 </table>
  <center>
   
- # Prenotazione attivit&agrave
-   Dopo aver fatto l'accesso l'utente sar&agrave reindirizzato alla pagina delle attivit&agrave dove potr&agrave scegliere le attivit&agrave che vuole svolgere cercandole nelle    varie categorie. 
-    Tutte le attivit&agrave sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovr&agrave prenotarsi per una sola attivit&agrave a turno. Una volta selezionate 
-    tutte le attivit&agrave, avr&agrave una checklist dove potr&agrave confermare tutti e 3 i turni prenotati. Se viene premuto il tasto "CONFERMA" viene mandata una e-mail con:
+ # Prenotazione attività
+   Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attivit&agrave dove potrà scegliere le attivit&agrave che vuole svolgere cercandole nelle    varie categorie. 
+    Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovr&agrave prenotarsi per una sola attivit&agrave a turno. Una volta selezionate 
+    tutte le attività, avr&agrave una checklist dove potrà confermare tutti e 3 i turni prenotati. Se viene premuto il tasto "CONFERMA" viene mandata una e-mail con:
    - Turni
    - Attivit&agrave del turno  
    - Aula
@@ -50,7 +50,7 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
    
 
 # Lato Staff
-  Ogni utente pu&ograve diventare **staff**: per diventarlo devono rivolgersi a un amministratore (che sar&agrave uno dei rappresentanti d'istituto).
+  Ogni utente può diventare **staff**: per diventarlo devono rivolgersi a un amministratore (che sarà uno dei rappresentanti d'istituto).
   Dopo esser diventati staff, per creare una nuova **attivit&agrave** si ha un popup nel sito Activity nel quale si possono inserire i dati per la propria attività. 
   
   >N.B: I membri dello staff, siccome creano un attvit&agrave, non potranno partecipare o scegliere altre attivit&agrave e dovranno presiedere rigorosamente
@@ -88,7 +88,7 @@ La WebApp Marconi Day offre agli studenti la possibilit&agrave di organizzare o 
    
    <br/><br/><br/>
   <p align="center">
-   <b>Popup attivit&agrave</b>
+   <b>Popup attività</b>
    </p>
    <p align="center" >
    <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png" width=600px/>
