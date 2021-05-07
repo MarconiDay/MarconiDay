@@ -30,7 +30,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    - Attività del turno  
    - Aula
 
-   ## Alcune cards delle attività
+   ## Pagina activity
    <img src="http://34.107.20.99/assets/Readme/activity.png">
 
 # Lato Staff
