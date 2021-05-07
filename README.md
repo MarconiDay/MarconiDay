@@ -60,7 +60,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    togliere permessi agli studenti (come nel caso dello staff). Se vogliono partecipare o creare attività dovranno semplicemente accedere con la loro matricola e password.
     
    ## Menù admin
-   <img src="http://34.107.20.99/assets/Readme/menuAdmin.png"/>
+   <img src="http://34.107.20.99/assets/Readme/menuAdmin.png" width=550px/>
     
    <p align="center">
    <b>Popup matricole</b>
