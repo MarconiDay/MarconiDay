@@ -25,11 +25,12 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
   
   >N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente
   in quella creata. Ogni attività dovrà avere solo un'unico responsabile (capo staff)
+  
+  PRIMA                                                                                         DOPO
 
 <p float="left">
   <img src="http://34.107.20.99/assets/img/inserisci.png" width="303.7" /> 
-  <img src="http://34.107.20.99/assets/img/avanti.png" width="100" margin-bottom="-400" style="margin-bottom:40"/>
-  <img src="http://34.107.20.99/assets/img/inserisciVuoto.png" width="300" />
+  <img src="http://34.107.20.99/assets/img/inserisciVuoto.png" width="300" align:"right" />
 </p>
 
 
