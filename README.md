@@ -11,7 +11,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
     gli verrà richiesto di creare una nuova password.
    
-  <img style="align:center" src="http://34.107.20.99/assets/img/e-mail.png" width=400px>
+  <div style="text-align:center width:400"><img src="http://34.107.20.99/assets/img/e-mail.png"/></div>
   
  # Prenotazione attività
    Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attività dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
