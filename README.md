@@ -128,7 +128,6 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    </table>
   </center>
   
-  <center>
 <table>
  <tr>
   <th><b>PRIMA</b></th>
@@ -139,6 +138,5 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  <td><img src="http://34.107.20.99/assets/Readme/inserisci.png"/> </td>
  </tr>
  </table>
-</center>
 <br/><br/>
   
