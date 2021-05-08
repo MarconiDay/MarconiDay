@@ -117,14 +117,14 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <br/><br/>
 
   <center>
-  <table>
+   <table>
    <tr>
-    <th><b>Inserimento Matricole</b></th>
-    <th><b>Inserimento aule</b></th>
+    <th><b>CSV Matricole</b></th>
+    <th><b>CSV aule</b></th>
    </tr>
     <tr>
-   <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg" /></td>
-   <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
+     <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg" /></td>
+     <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
    </tr>
    </table>
   </center>
