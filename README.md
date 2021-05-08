@@ -110,3 +110,9 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <img src="http://34.107.20.99/assets/Readme/auleAdmin.png" width=510px/>
    </p>
      
+  # File CSV
+   ## Inserimento matricole
+      
+   ## Inserimento aule
+  
+  
