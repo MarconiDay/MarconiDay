@@ -111,8 +111,21 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    </p>
      
   # File CSV
-   ## Inserimento matricole
-      
-   ## Inserimento aule
+   Per quanto riguarda l'inserimento delle aule e delle matricola chiediamo di inserirli alla prima colonna del file. Il file deve contenere solo e solamente 
+   le aule oppure le matricola:
+   Le celle devono seguire questa identazione:
+   <br/><br/>
+   <center>
+<table>
+ <tr>
+  <th><b>Inserimento Matricole</b></th>
+  <th><b>Inserimento aule</b></th>
+ </tr>
+  <tr>
+ <td><img src="http://34.107.20.99/assets/Readme/excelMat.png" /></td>
+ <td><img src="http://34.107.20.99/assets/Readme/excelAule.png"/> </td>
+ </tr>
+ </table>
+</center>
   
   
