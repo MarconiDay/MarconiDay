@@ -22,9 +22,10 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
  <td><img src="http://34.107.20.99/assets/Readme/login.png" /></td>
  </tr>
 </table>
+ </center>
   <br/><br/>
+ 
  # Prenotazione attività
-</center> 
    Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attivit&agrave dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
     Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovr&agrave prenotarsi per una sola attività a turno. Una volta selezionate 
     tutte le attività, avrà una checklist dove potrà confermare tutti e 3 i turni prenotati. Se viene premuto il tasto "CONFERMA" viene mandata una e-mail con:
