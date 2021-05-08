@@ -122,7 +122,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <p align="center">
    <img src="http://34.107.20.99/assets/Readme/logoCSV.jpg" />
    </p>
-   
+   <br/><br/><br/>
    
    <table align="center">
    <tr>
