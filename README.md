@@ -32,7 +32,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    - Turni
    - Attivit&agrave del turno  
    - Aula
-
+<br/>
    <p align="center">
    <b>Scelte attività</b>
    </p>
@@ -40,7 +40,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
     <img src="http://34.107.20.99/assets/Readme/scegli.jpg" width=800px/>
    </p>
   
- 
+ <br/>
   <p align="center">
    <b>Check list</b>
    </p>
