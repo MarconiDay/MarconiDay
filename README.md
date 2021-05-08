@@ -115,9 +115,6 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    le aule oppure le matricola:
    Le celle devono seguire questa identazione:
    
-   
-  
-   <br/><br/>
  <center>
    <table>
    <tr>
