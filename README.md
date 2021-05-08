@@ -2,7 +2,7 @@
 
 
 # Marconi-Day
-La WebApp Marconi Day offre agli studenti la possibilità di organizzare o partecipare alle attivit&egrave per il giorno Marconi Day
+La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità di organizzare o partecipare alle attivit&egrave per il giorno Marconi Day
 <br/><br/>
 # Login
  Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
