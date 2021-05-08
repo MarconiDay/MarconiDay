@@ -114,9 +114,11 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    Per quanto riguarda l'inserimento delle aule e delle matricola chiediamo di inserirli alla prima colonna del file. Il file deve contenere solo e solamente 
    le aule oppure le matricola:
    Le celle devono seguire questa identazione:
+   
+   
+   <center>
    <br/><br/>
 
-  <center>
    <table>
    <tr>
     <th><b>CSV Matricole</b></th>
@@ -127,5 +129,5 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
      <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
    </tr>
    </table>
-  
+  </center>
   
