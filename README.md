@@ -11,7 +11,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
     Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
     gli verrà richiesto di creare una nuova password.
     <br/>
-<center>   
+
 <table>
  <tr>
   <th>Invio e-mail</th>
@@ -22,7 +22,6 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  <td><img src="http://34.107.20.99/assets/Readme/login.png" /></td>
  </tr>
 </table>
- </center>
   <br/><br/>
  
  # Prenotazione attività
@@ -115,7 +114,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    le aule oppure le matricola:
    Le celle devono seguire questa identazione:
    
- <center>
+ <p align="center"> 
    <table>
    <tr>
     <th><b>CSV Matricole</b></th>
@@ -126,17 +125,9 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
      <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
    </tr>
    </table>
-  </center>
+</p>
   
-<table>
- <tr>
-  <th><b>PRIMA</b></th>
-  <th><b>DOPO</b></th>
- </tr>
-  <tr>
- <td><img src="http://34.107.20.99/assets/Readme/inserisciVuoto.png" /></td>
- <td><img src="http://34.107.20.99/assets/Readme/inserisci.png"/> </td>
- </tr>
- </table>
+<p align="center"> 
+
 <br/><br/>
   
