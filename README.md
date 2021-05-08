@@ -126,7 +126,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    
    <table align="center">
    <tr>
-    <th><b>CSV Matricole</b></th>
+    <th><b>CSV matricole</b></th>
     <th><b>CSV aule</b></th>
    </tr>
     <tr>
