@@ -30,7 +30,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
     Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovr&agrave prenotarsi per una sola attività a turno. Una volta selezionate 
     tutte le attività, avrà una checklist dove potrà confermare tutti e 3 i turni prenotati. Se viene premuto il tasto "CONFERMA" viene mandata una e-mail con:
    - Turni
-   - Attivit&agrave del turno  
+   - Attività del turno  
    - Aula
 <br/>
    <p align="center">
@@ -122,7 +122,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
     <th><b>CSV aule</b></th>
    </tr>
     <tr>
-     <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg" /></td>
+     <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg"/></td>
      <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
    </tr>
    </table>
