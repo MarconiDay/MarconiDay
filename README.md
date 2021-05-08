@@ -83,7 +83,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    
    <br/><br/><br/>
    <p align="center">
-   <b>Popup matricole</b>
+   <b>Schermata matricole</b>
    </p>
    <p align="center">
    <img src="http://34.107.20.99/assets/Readme/matricoleAdmin.png" width=550px/>
@@ -91,7 +91,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    
    <br/><br/><br/>
   <p align="center">
-   <b>Popup attività</b>
+   <b>Schermata attività</b>
    </p>
    <p align="center" >
    <img src="http://34.107.20.99/assets/Readme/attivitàAdmin.png" width=600px/>
@@ -100,7 +100,7 @@ La WebApp Marconi Day offre agli studenti la possibilità di organizzare o parte
    <br/><br/><br/>
    
    <p align="center">
-   <b>Popup aule</b>
+   <b>Schermata aule</b>
    </p>
    <p align="center">
    <img src="http://34.107.20.99/assets/Readme/auleAdmin.png" width=510px/>
