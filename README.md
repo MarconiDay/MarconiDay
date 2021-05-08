@@ -2,7 +2,7 @@
 
 
 # Marconi-Day
-La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità di organizzare o partecipare alle attivit&egrave per il giorno Marconi Day
+La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità di organizzare o partecipare alle attività per il giorno Marconi Day
 <br/><br/>
 # Login
  Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
@@ -25,8 +25,8 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
   <br/><br/>
  
  # Prenotazione attività
-   Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attivit&agrave dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
-    Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovr&agrave prenotarsi per una sola attività a turno. Una volta selezionate 
+   Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attività dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
+    Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovràe prenotarsi per una sola attività a turno. Una volta selezionate 
     tutte le attività, avrà una checklist dove potrà confermare tutti e 3 i turni prenotati. Se viene premuto il tasto "CONFERMA" viene mandata una e-mail con:
    - Turni
    - Attività del turno  
@@ -54,8 +54,8 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
   Ogni utente può diventare **staff**: per diventarlo devono rivolgersi a un amministratore (che sarà uno dei rappresentanti d'istituto).
   Dopo esser diventati staff, per creare una nuova **attività** si ha un popup nel sito Activity nel quale si possono inserire i dati per la propria attività. 
   
-  >N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attivit&agrave e dovranno presiedere rigorosamente
-  in quella creata. Ogni attivit&agrave dovrà avere solo un'unico responsabile (capo staff)
+  >N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente
+  in quella creata. Ogni attività dovrà avere solo un'unico responsabile (capo staff)
 <br/>
 <center>
 <table>
