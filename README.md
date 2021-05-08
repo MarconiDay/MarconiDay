@@ -116,9 +116,9 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    Le celle devono seguire questa identazione:
    
    
-   <center>
+  
    <br/><br/>
-
+ <center>
    <table>
    <tr>
     <th><b>CSV Matricole</b></th>
