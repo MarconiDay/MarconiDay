@@ -123,7 +123,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  </tr>
   <tr>
  <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg" /></td>
- <td><img src="http://34.107.20.99/assets/Readme/excelAule.jpg"/> </td>
+ <td><img src="http://34.107.20.99/assets/Readme/excelAula.jpg"/> </td>
  </tr>
  </table>
 </center>
