@@ -122,8 +122,8 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
   <th><b>Inserimento aule</b></th>
  </tr>
   <tr>
- <td><img src="http://34.107.20.99/assets/Readme/excelMat.png" /></td>
- <td><img src="http://34.107.20.99/assets/Readme/excelAule.png"/> </td>
+ <td><img src="http://34.107.20.99/assets/Readme/excelMat.jpg" /></td>
+ <td><img src="http://34.107.20.99/assets/Readme/excelAule.jpg"/> </td>
  </tr>
  </table>
 </center>
