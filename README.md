@@ -75,7 +75,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  # Lato amministratore
    Gli amministratori ovvero i rappresentanti di Istituto avranno delle credenziali "speciali" per poter accedere. Queste credenziali permetteranno di assegnare o 
    togliere permessi agli studenti (come nel caso dello staff). Se vogliono partecipare o creare attività dovranno semplicemente accedere con la loro matricola e password.
-   >Il sito admin non è visibile da dispositivo mobile, consigliamo l'utilizzo di un tablet o pc
+   >Il sito admin non è visibile da dispositivo mobile, consigliamo l'utilizzo di un tablet o pc.
 <br/>
 
  ## Menù admin
