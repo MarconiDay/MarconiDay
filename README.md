@@ -13,7 +13,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  gli verrà richiesto di creare una nuova password.
     <br/>
 
-<table>
+<table align:center>
  <tr>
   <th>Invio e-mail</th>
   <th>Pagina login</th>
