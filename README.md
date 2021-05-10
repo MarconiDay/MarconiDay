@@ -8,7 +8,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
    - Matricola
    - Password (provvisoria)
-    Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
+    <br/> Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
     gli verrà richiesto di creare una nuova password.
     <br/>
 
