@@ -56,7 +56,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
   Dopo esser diventati staff, per creare una nuova **attività** si ha un popup nel sito Activity nel quale si possono inserire i dati per la propria attività. 
   
   >N.B: I membri dello staff, siccome creano un attvità, non potranno partecipare o scegliere altre attività e dovranno presiedere rigorosamente
-  in quella creata. Ogni attività dovrà avere solo un'unico responsabile (capo staff)
+  in quella creata. Ogni attività dovrà avere solo un unico responsabile (capo staff)
 <br/>
 <center>
 <table>
