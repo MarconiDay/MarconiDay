@@ -11,8 +11,9 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
     <br/> <br/> 
  Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
  gli verrà richiesto di creare una nuova password.
- >Le attività saranno disponibili soltanto da una data specifica. Se si volesse comunque fare il login si vedremme questa schermata:
- <img src="http://34.107.20.99/assets/Readme/timerGrande.png" align="center"/>
+ >Le attività saranno disponibili soltanto da una data specifica. Se si volesse comunque fare il login nonostante non fossero ancora disponibili le attività si vedrebbe 
+ la seguente schermata:
+ <img src="http://34.107.20.99/assets/Readme/TimerBig.png" align="center"/>
     <br/>
 
 <table align:center>
