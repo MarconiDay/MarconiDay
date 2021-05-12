@@ -128,12 +128,15 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <img src="http://34.107.20.99/assets/Readme/Impostazioni.png" width=600px/>
    </p>
    <br/><br/><br/><br/>
+  
+  
+  
   # File CSV
    Per quanto riguarda l'inserimento delle aule e delle matricole, chiediamo di inserirli alla prima colonna del file. Il file deve contenere solo e solamente 
    le aule oppure le matricole.
    Le celle devono seguire questa identazione:
    
-   
+   <br/><br/>
    <p align="center">
    <b>Bottone inserisci CSV</b>
    </p>
@@ -141,6 +144,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <p align="center">
    <img src="http://34.107.20.99/assets/Readme/logoCSV.jpg" />
    </p>
+   
    <br/><br/><br/>
    
    <table align="center">
