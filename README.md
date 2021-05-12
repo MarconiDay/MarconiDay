@@ -92,7 +92,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <p align="center">
    </p>
    <p align="center">
-   <img src="http://34.107.20.99/assets/Readme/menuAdmin.png"/>
+   <img src="http://34.107.20.99/assets/Readme/MenuAdmin.png"/>
    </p>
    
    <br/><br/><br/>
