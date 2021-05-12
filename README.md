@@ -29,7 +29,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  >Le attività saranno disponibili soltanto da una data specifica. Se si volesse comunque fare il login nonostante non fossero ancora disponibili le attività si vedrebbe 
  la seguente schermata:
 <p align="center">
-<img  src="http://34.107.20.99/assets/Readme/TimerBig.png" width="600"/>
+<img  src="http://34.107.20.99/assets/Readme/TimerBig.png" width="800"/>
  </p>
  
  <br/>
