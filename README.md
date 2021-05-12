@@ -48,7 +48,7 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
    <b>Scelte attività</b>
    </p>
    <p align="center">
-    <img src="http://34.107.20.99/assets/Readme/scegli.jpg" width=800px/>
+    <img src="http://34.107.20.99/assets/Readme/Scegli.jpg" width=800px/>
    </p>
   
  <br/><br/>
