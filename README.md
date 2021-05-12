@@ -33,6 +33,9 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  </p>
  
  <br/>
+ 
+ 
+ 
  # Prenotazione attività
    Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attività dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
     Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovràe prenotarsi per una sola attività a turno. Una volta selezionate 
