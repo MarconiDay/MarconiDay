@@ -11,10 +11,8 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
     <br/> <br/> 
  Lo studente inserendo le credenziali fornite dalla e-mail e premendo il pulsante "START" 
  gli verrà richiesto di creare una nuova password.
- >Le attività saranno disponibili soltanto da una data specifica. Se si volesse comunque fare il login nonostante non fossero ancora disponibili le attività si vedrebbe 
- la seguente schermata:
- <img src="http://34.107.20.99/assets/Readme/TimerBig.png" align="center"/>
-    <br/>
+ 
+  <br/>
 
 <table align:center>
  <tr>
@@ -27,7 +25,14 @@ La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità
  </tr>
 </table>
   <br/><br/>
+  
+ >Le attività saranno disponibili soltanto da una data specifica. Se si volesse comunque fare il login nonostante non fossero ancora disponibili le attività si vedrebbe 
+ la seguente schermata:
+<p align="center">
+<img  src="http://34.107.20.99/assets/Readme/TimerBig.png" width="600"/>
+ </p>
  
+ <br/>
  # Prenotazione attività
    Dopo aver fatto l'accesso l'utente sarà reindirizzato alla pagina delle attività dove potrà scegliere le attività che vuole svolgere cercandole nelle varie categorie. 
     Tutte le attività sono divise in 3 turni, ogni turno ha una durata di 2 ore. L'utente dovràe prenotarsi per una sola attività a turno. Una volta selezionate 
