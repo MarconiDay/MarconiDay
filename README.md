@@ -1,9 +1,11 @@
 <img src="http://34.107.20.99/assets/img/logo.png" width=50px>
 
 
-# Marconi-Day
+# Marconi Day ([Presentazione webApp](https://prezi.com/view/sTV8RZkHG60cKDVHsF9N/))
 La WebApp [Marconi Day](http://34.107.20.99) offre agli studenti la possibilità di organizzare o partecipare alle attività per il giorno Marconi Day
-<br/><br/>
+<br/>
+
+<br/>
 # Login
  Circa 2/3 settimane prima del Marconi Day verrà mandata un e-mail a tutti gli studenti, verranno fornite: 
    - Matricola
